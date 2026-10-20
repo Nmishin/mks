@@ -1,6 +1,6 @@
 {
     "devDependencies": {
-        "@babel/core": "^7.25.2",
+        "@babel/core": "^7.29.6",
         "@babel/preset-env": "^7.25.4",
         "@hotwired/stimulus": "^3.0.0",
         "@symfony/stimulus-bridge": "^3.2.0 || ^4.0.0",
@@ -11,7 +11,7 @@
         "lightbox2": "^2.11.4",
         "regenerator-runtime": "^0.14.1",
         "script-loader": "^0.7.2",
-        "webpack": "^5.95.0",
+        "webpack": "^5.104.1",
         "webpack-cli": "^5.1.4",
         "webpack-notifier": "^1.15.0"
     },
